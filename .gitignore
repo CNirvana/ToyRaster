@@ -1,0 +1,10 @@
+/[Bb]uild/
+out/
+
+.vs/
+.vscode/
+
+# Gradle cache directory
+.gradle/
+
+*.sln
